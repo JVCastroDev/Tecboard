@@ -1,4 +1,4 @@
-import './Banner.estilos.css'
+import './banner.estilos.css'
 
 
 export function Banner() {
